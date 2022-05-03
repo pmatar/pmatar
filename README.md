@@ -3,9 +3,8 @@
 
 </p> <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="38%"> </p>
 
-- 🌱 I’m currently learning **SwiftUI**
-
-- 📫 How to reach me **@pmatar**
+- 🌱 I’m currently learning **SwiftUI, RxSwift**
+- 📫 How to reach me - [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/pmatar)](https://t.me/pmatar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
