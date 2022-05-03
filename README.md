@@ -2,7 +2,7 @@
 <h3 align="center">A self-taught iOS Developer and career switcher.</h3>
 <p align="left"> <a href="https://github.com/pmatar/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pmatar&theme=discord" alt="pmatar" /></a> <img align='right'</p>
   
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+![hippo](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 - 🌱 I’m currently learning **SwiftUI**
