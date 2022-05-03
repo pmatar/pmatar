@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul Matar</h1>
 <h3 align="center">A self-taught iOS Developer and career switcher.</h3>
 
-<img align='right' ![hippo](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p img align='right'> ![hippo](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) </p>
 
 
 - 🌱 I’m currently learning **SwiftUI**
