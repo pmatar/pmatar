@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmatar&layout=compact&theme=city_lights" alt="pmatar" width="44%" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=pmatar&theme=blood-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pmatar" width="44%" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=pmatar&theme=blood-dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="pmatar" width="44%" /></p>
   
 
