@@ -4,7 +4,7 @@
 </p> <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="38%"> </p>
 
 - 🌱 I’m currently learning **SwiftUI, RxSwift**
-- 📫 How to reach me - [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/pmatar)](https://t.me/pmatar)
+- 📫 How to reach me: <a href="https://t.me/pmatar"><img alt="@pmatar" width="18px" src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"></img> **@pmatar** </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
