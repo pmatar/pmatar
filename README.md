@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paul Matar</h1>
 <h3 align="center">A self-taught iOS Developer and career switcher.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pmatar" alt="pmatar" /></a> </p>
+
 - 🌱 I’m currently learning **SwiftUI**
 
 - 📫 How to reach me **polmatar@gmail.com**
@@ -19,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmatar&show_icons=true&locale=en&layout=compact" alt="pmatar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pmatar&show_icons=true&locale=en" alt="pmatar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pmatar&" alt="pmatar" /></p>
