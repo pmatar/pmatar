@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul Matar</h1>
 <h3 align="center">A self-taught iOS Developer and career switcher.</h3>
-<p align="left"> <a href="https://github.com/pmatar/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pmatar&theme=discord" alt="pmatar" /></a> <img align='right' src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360"> </p>
+<p align="left"> <a href="https://github.com/pmatar/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pmatar&theme=discord" alt="pmatar" /></a> <img align='right' <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360"> frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
-<iframe  frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 - 🌱 I’m currently learning **SwiftUI**
 
