@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=217295&center=true&vCenter=true&multiline=true&width=900&height=130&lines=Hi+%F0%9F%91%8B%2C+I'm+Paul+Matar;A+self-taught+iOS+Developer+and+career+switcher;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 
-</p> <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="38%"> </p>
+</p> <img align='center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="55%" height="100%"> </p>
 
 - 🌱 I’m currently learning **SwiftUI**
 
@@ -20,9 +20,9 @@
 <hr></hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmatar&layout=compact&theme=city_lights" alt="pmatar" width="37%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmatar&layout=compact&theme=city_lights" alt="pmatar" width="48%" /></p>
 
 <p>&nbsp;
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=pmatar&theme=blood-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pmatar" width="37%"/></p>
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=pmatar&theme=blood-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pmatar" width="48%" height="25%"/></p>
   
 
