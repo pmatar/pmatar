@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paul Matar</h1>
-<h3 align="center">A self-taught iOS Developer and career switcher.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=217295&center=true&vCenter=true&multiline=true&width=900&height=130&lines=Hi+%F0%9F%91%8B%2C+I'm+Paul+Matar;A+self-taught+iOS+Developer+and+career+switcher;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 
 </p> <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%", height="250"> </p>
