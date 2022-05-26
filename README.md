@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=217295&center=true&vCenter=true&multiline=true&width=900&height=130&lines=Hi+%F0%9F%91%8B%2C+I'm+Paul+Matar;A+self-taught+iOS+Developer+and+career+switcher;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 
-</p> <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="38%"> </p>
 
 - 🌱 I’m currently learning **SwiftUI, RxSwift**
 - 📫 How to reach me: <a href="https://t.me/pmatar"><img alt="@pmatar" width="18px" src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"></img> **@pmatar** </a>
+<p align="right"> <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
