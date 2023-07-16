@@ -2,8 +2,7 @@
 
 
 
-- 🌱 I’m currently learning **SwiftUI, TCA**
-- 📫 How to reach me: <a href="https://t.me/pmatar"><img alt="@pmatar" width="18px" src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"></img> **@pmatar** </a>
+- 📫 How to reach me: <a href="https://t.me/pmatar"><img alt="@pmatar" width="18px" src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"></img> **@pmatar** </a> <a href="https://www.linkedin.com/in/paul-matar"><img alt="@pmatar" width="18px" src="https://img.icons8.com/color/48/linkedin-circled--v1.png"></img> **Paul Matar** </a>
 <p align="right"> <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"> </p>
 
 <h3 align="left">Connect with me:</h3>
