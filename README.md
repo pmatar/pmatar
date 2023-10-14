@@ -2,7 +2,7 @@
 
 
 
-- 📫 How to reach me: <a href="https://t.me/escaping_Self_throws_void"><img alt="@escaping_self_throws_void" width="18px" src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"></img> **@escaping_self_throws_void** </a>
+- 📫 How to reach me: <a href="https://t.me/escaping_self_throws_void"><img alt="@escaping_self_throws_void" width="18px" src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"></img> **@escaping_self_throws_void** </a>
 <p align="right"> <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"> </p>
 
 <h3 align="left">Connect with me:</h3>
