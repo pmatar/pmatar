@@ -9,8 +9,8 @@
 <p align="left">
 <a href="https://twitter.com/@escaping_void" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@p_a_matar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paul-matar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-matar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14648892/escaping-self-throws-void" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="p_m" height="30" width="40" /></a>
-<a href="https://instagram.com/escaping_self_throws_void" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paul.akl.matar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14648892/pmatar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="p_m" height="30" width="40" /></a>
+<a href="https://instagram.com/self.paulmatar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paul.akl.matar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,8 +18,8 @@
 <hr></hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escaping-self-throws-void&layout=compact&theme=city_lights" alt="escaping-self-throws-void" width="44%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmatar&layout=compact&theme=city_lights" alt="pmatar" width="44%" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=escaping-self-throws-void&theme=blood-dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="escaping-self-throws-void" width="44%" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=pmatar&theme=blood-dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="pmatar" width="44%" /></p>
   
 
